@@ -398,7 +398,7 @@ footer .next-btn:hover{
 }
 
 
-.result-box button:hover, .result-box button:focus{
+.result-box button:hover{
     background-color: #4c7560;
     color: #fff;
 }
